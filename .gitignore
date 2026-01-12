@@ -1,0 +1,24 @@
+# Bundler
+/.bundle/
+/vendor/bundle
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# VSCode
+/build/
+
+# IntelliJ
+/.gradle
+/.idea/*
+/gradlew
+/gradlew.bat
+local.properties
+
+# Xcode
+!.idea/xcode.xml
